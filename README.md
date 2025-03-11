@@ -18,5 +18,5 @@ Aprendiendo más sobre arquitectura backend y desarrollo Full Stack
 Explorando Docker y Kubernetes para despliegue de aplicaciones
 Mejorando mis habilidades en React y Node.js
 📫 Cómo Contactarme
-📌 LinkedIn: [Tu Perfil]
-📧 Correo: [Tu Email]
+📌 LinkedIn: https://www.linkedin.com/in/nicolas-sanchez-palomo-aa6172279/
+📧 Correo: nicolas.sanchez.palomo@gmail.com
