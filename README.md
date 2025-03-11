@@ -26,8 +26,8 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 
 ## 🌱 Actualmente Aprendiendo
 
-🚀 **Arquitectura backend y desarrollo Full Stack**
-☁️ **Docker y Kubernetes para despliegue de aplicaciones**
+🚀 **Arquitectura backend y desarrollo Full Stack**  
+☁️ **Docker y Kubernetes para despliegue de aplicaciones**  
 ⚛️ **React y Node.js para mejorar habilidades en desarrollo web**
 
 ## 💻 Proyectos Destacados
