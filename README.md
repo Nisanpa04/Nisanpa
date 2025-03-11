@@ -32,8 +32,8 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 
 ## 💻 Proyectos Destacados
 
-🔹 **Vyralite** - Plataforma SaaS para gestión de redes sociales.
-🛠️ _Tecnologías:_ Next.js, ReactJS, MongoDB, TypeScript.
+🛠️ **En proceso...** 🛠️
+
 
 ## 📊 Estadísticas de GitHub
 
@@ -47,6 +47,4 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https:/www.linkedin.com/in/nicolas-sanchez-palomo-aa6172279/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolas.sanchez.palomo@gmail.com)
 
----
 
-Espero que esta versión te guste más. ¡Si quieres personalizarlo más, dime y lo ajustamos! 🚀
