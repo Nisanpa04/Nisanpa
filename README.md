@@ -7,13 +7,13 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 ## 🔧 Tecnologías & Habilidades
 
 🖥️ **Lenguajes de Programación:**
-- Java | JavaScript | PHP | HTML | CSS
+- Java | JavaScript | PHP | HTML | CSS | Boostrap | SASS
 
 🛠️ **Frameworks & Herramientas:**
-- Node.js | React | Laravel
+- Node.js | Reac | Laravel | Eclipse
 
 💾 **Bases de Datos:**
-- MySQL | MongoDB
+- MySQL | MongoDB | PostgreSQL
 
 🔐 **Otros:**
 - Administración de sistemas | Redes | Seguridad informática
