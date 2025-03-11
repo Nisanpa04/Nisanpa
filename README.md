@@ -13,7 +13,7 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 - Node.js | Reac | Laravel | Eclipse
 
 💾 **Bases de Datos:**
-- MySQL | MongoDB | PostgreSQL
+- MySQL | MongoDB | PostgreSQL(Pgadmin 4)
 
 🔐 **Otros:**
 - Administración de sistemas | Redes | Seguridad informática
