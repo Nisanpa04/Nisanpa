@@ -44,7 +44,7 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 
 ## 📫 Cómo Contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-sanchez-palomo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https:/www.linkedin.com/in/nicolas-sanchez-palomo-aa6172279/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolas.sanchez.palomo@gmail.com)
 
 ---
