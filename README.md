@@ -20,8 +20,8 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 
 ## 💼 Experiencia Profesional
 
-📌 **Técnico en sistemas y redes**
-📌 **Desarrollador de aplicaciones web con tecnologías modernas**
+📌 **Técnico en sistemas y redes**  
+📌 **Desarrollador de aplicaciones web con tecnologías modernas**  
 📌 **Mantenimiento y soporte IT**
 
 ## 🌱 Actualmente Aprendiendo
