@@ -39,7 +39,7 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nisanpa04&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisanpa04&layout=compact&theme=radical" height="180px" />   nicolas-sanchez-palomo
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisanpa04&layout=compact&theme=radical" height="180px" />  
 </div>
 
 ## 📫 Cómo Contactarme
