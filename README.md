@@ -38,13 +38,13 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisanpa04&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisanpa04&layout=compact&theme=radical" height="180px" />
 </div>
 
 ## 📫 Cómo Contactarme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisanpa04)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 ---
