@@ -32,7 +32,7 @@ Soy un **Desarrollador Web & Técnico en Sistemas** con formación en **Sistemas
 
 ## 💻 Proyectos Destacados
 
-🛠️ **En proceso...** 🛠️
+🛠️ **En proceso...** 
 
 
 ## 📊 Estadísticas de GitHub
